@@ -8,3 +8,6 @@ Welcome to the codextest1 documentation powered by [docsify](https://docsify.js.
 - [The Quantum Coffee Machine](quantum-coffee-machine.md)
 - [Gardens of Glass](gardens-of-glass.md)
 
+## Utilities
+
+- [Live Location](live-location.md)
